@@ -1,0 +1,16 @@
+{
+  "name": "lua2js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "escodegen": "^2.1.0",
+    "lua2js": "^0.0.11",
+    "luaparse": "^0.3.1"
+  }
+}
